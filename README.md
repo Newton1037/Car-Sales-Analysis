@@ -88,4 +88,4 @@ Design and develop a dynamic, interactive Car Sales Dashboard to visualize criti
 
 
 ## Done by
-   - Girish Chowdary
+   - Nitin Kumar
